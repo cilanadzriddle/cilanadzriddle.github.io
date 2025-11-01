@@ -6,4 +6,4 @@ title: About
 
 These are my projects. Have a good look!
 
-LMFAOOOOOOOOOOOOOOOOOOO
+yes
